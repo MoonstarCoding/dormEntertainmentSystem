@@ -1,6 +1,10 @@
-# Projector
-## Materials
-- Exactoknife/Scissors
+# Parts
+
+## Projector
+
+### Materials
+
+- Exact-o-knife/Scissors
 - Foamboard
 - Hot glue gun
 - White glue
@@ -8,36 +12,40 @@
 - Ruler
 - Box
 
-## Steps
-### The Projector
+### Steps
+
+#### The Projector
+
 - Cut off handle of magnifying glass
 - Re-enforce box with white glue
 - Position Magnifying Glass
 - Cut hole in Magnifying Glass
 - Hot glue magnifying glass in place
 
-### The Phone Stand
+#### The Phone Stand
+
 - Cut foamboard to size of projector system
 - Hot glue perpendicularly to base
 - Align phone to center of stand and trace out line
 - Use either tape or more foamboard to secure phone in place
 - Phone on highest brightness and lock rotation to upside down
 
-### Lastly
+#### Lastly
+
 - Move phone to adjust focus
 
-#### YouTube Link
+##### YouTube Link
+
 https://www.youtube.com/watch?v=Tx4vPeL9y2g
 
-# 3-Dimensional Hologram System
+## 3-Dimensional Hologram System
 
-# Speaker/Sound Amplifier
-## Materials
+## Speaker/Sound Amplifier
+
+### Materials
+
 - Cardboard
 
-## Steps
-- Cut bottle just at transition of body to neck
-- File cap rings down to be smooth
+##### YouTube Link
 
-#### YouTube Link
 https://www.youtube.com/watch?v=vIjdZv8xsS0
